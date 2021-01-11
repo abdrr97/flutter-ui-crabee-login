@@ -1,16 +1,8 @@
-# crabee
+# **CRABEE**
 
-A new Flutter project.
+This UI Futter app was inspired by a dribbble design 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Crabee](https://cdn.dribbble.com/users/551602/screenshots/5849484/carbee-dribbble-01.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>to visit this deibbble post 	[Click this](https://dribbble.com/shots/5849484/attachments/5849484-Sign-In?mode=media)
